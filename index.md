@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Buffalo Wings Recipe</title>
 <meta charset="UFF-8" />
 </head>
 <h1 style="color: white;"><strong>Buffalo Wings Recipe</strong></h1>
